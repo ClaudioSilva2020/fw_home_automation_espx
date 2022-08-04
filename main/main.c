@@ -17,7 +17,7 @@ void app_main(void)
 {
     while (true)
     {
-        printf("Hello from app_main!\n");
-        sleep(1);
+    	printf("Hello from app_main!\n");
+        sleep(2);
     }
 }
